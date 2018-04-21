@@ -1,5 +1,0 @@
-matiz:20	rojo 255
-
-sat240		verde 216
-
-lum 203		azul 176
