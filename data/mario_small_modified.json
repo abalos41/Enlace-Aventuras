@@ -1,0 +1,6 @@
+{
+	"marioR":{"sx":0,"sy":0,"tileW":28,"tileH":32,"frames":3},
+	"marioL":{"sx":392,"sy":0,"tileW":28,"tileH":32,"frames":3},
+	"marioDie":{"sx":336,"sy":0,"tileW":28,"tileH":32,"frames":1},
+	"marioJump":{"sx":112,"sy":0,"tileW":28,"tileH":32,"frames":1}
+}

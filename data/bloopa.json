@@ -1,0 +1,5 @@
+{
+	"bloopa":{"sx":0,"sy":0,"tileW":32,"tileH":45,"frames":1},
+	"bloopaJump":{"sx":32,"sy":5,"tileW":32,"tileH":32,"frames":1},
+	"bloopaDie":{"sx":64,"sy":5,"tileW":32,"tileH":32,"frames":1}
+}
