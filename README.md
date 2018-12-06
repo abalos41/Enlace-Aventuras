@@ -1,2 +1,8 @@
 # Enlace-Aventuras
-Juego desarrollado con Javascript + Quintus
+Actualmente en desarrollo, disponible un personaje y un mapa al completo.
+
+![](https://pbs.twimg.com/profile_images/937621074526732289/8gy1EiAH_400x400.jpg)
+
+Personajes:
+
+Manuel - Su objetivo es completar el mapa y conseguir su sueldo al final de este.
