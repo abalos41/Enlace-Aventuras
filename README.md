@@ -7,4 +7,4 @@ Personajes:
 
 Manuel - Su objetivo es completar el mapa y conseguir su sueldo al final de este.
 
-Demo disponible! -> https://enlaceaventuras.000webhostapp.com/index.html
+Demo disponible! -> https://enlaceaventur4s.000webhostapp.com/
