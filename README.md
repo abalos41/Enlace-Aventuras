@@ -7,4 +7,4 @@ Personajes:
 
 Manuel - Su objetivo es completar el mapa y conseguir su sueldo al final de este.
 
-Demo disponible! -> https://enlac3aventuras.000webhostapp.com/
+Demo disponible! -> https://3nlaceaventuras.000webhostapp.com/
